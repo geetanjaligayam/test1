@@ -5,3 +5,4 @@ Also fourth line
 doing changes in the origin repository 
 and trying to get the difference
 pullin only to modify
+trying to change the file in the local from sublime
